@@ -1,0 +1,12 @@
+SlopeZeroMeth: -1
+Rank: 5
+SymmOrder: 2
+WilsonLine: 1 0
+DownStairs: 1
+MinEntry: -7
+MaxEntry: 8
+NumBits: 4
+ValueWeights: 9
+1 1 1 1 1 1 1 1 1 
+ProbDis: 1.0 1.0 1.0 1.5 1.5 2.0 2.0 3.0 2.0 2.0 1.5 1.5 1.5 1.0 1.0 1.0
+TermCond: -0.001 
