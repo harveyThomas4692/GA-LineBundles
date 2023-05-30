@@ -1,7 +1,7 @@
 # GA-LineBundles
 Latest version of code: 30th May 2023.
 
-This is an environment for https://github.com/harveyThomas4692/GA-C, where the environment is designed to find semi-realistic vacua from string theory via line bundle sums on . This was intended for use in the paper:_______.
+This is an environment for https://github.com/harveyThomas4692/GA-C, where the environment is designed to find semi-realistic vacua from heterotic string theory via line bundle sums on smooth Calabi-Yau manifolds. This was intended for use in the paper:_______.
 
 To use the code, you need to change the options file to your desired settings and build either the geneneticmain.c file or searchmain.c file. You will need to change the directories at the beginning of these c files for your system. The genetic.h and genetic.c files are in the other repository mentioned above
 
